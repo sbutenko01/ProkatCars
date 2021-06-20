@@ -1,0 +1,23 @@
+C:\Users\МОСК\Desktop\Prokat\Prokat\bin\Debug\Prokat.exe.config
+C:\Users\МОСК\Desktop\Prokat\Prokat\bin\Debug\Prokat.exe
+C:\Users\МОСК\Desktop\Prokat\Prokat\bin\Debug\Prokat.pdb
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.Form1.resources
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.Properties.Resources.resources
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.csproj.GenerateResource.cache
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.csproj.CoreCompileInputs.cache
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.exe
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.pdb
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.csproj.AssemblyReference.cache
+C:\Users\МОСК\Desktop\Prokat\Prokat\bin\Debug\xNet.dll
+C:\Users\МОСК\Desktop\Prokat\Prokat\obj\Debug\Prokat.csproj.CopyComplete
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\bin\Debug\Prokat.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\bin\Debug\Prokat.exe
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\bin\Debug\Prokat.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.Form1.resources
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.Properties.Resources.resources
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.csproj.GenerateResource.cache
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.csproj.CopyComplete
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.exe
+C:\Users\serge\OneDrive\Рабочий стол\Prokat\Prokat\obj\Debug\Prokat.pdb
